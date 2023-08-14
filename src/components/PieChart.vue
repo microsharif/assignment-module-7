@@ -38,7 +38,7 @@ onMounted(() => {
 })
 
 onBeforeUnmount(() => {
-    chart.destroy()
+  chart.destroy()
 })
 
 </script>
