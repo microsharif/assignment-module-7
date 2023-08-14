@@ -52,7 +52,7 @@ onMounted(() => {
 })
 
 onBeforeUnmount(() => {
-    stopAutoPlay()
+  stopAutoPlay()
 })
 
 </script>
