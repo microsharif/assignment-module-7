@@ -1,0 +1,5 @@
+===== Task-1 (Carousel) ========
+Please switch to carousel branch or clone from the branch to see the assignment for task-1
+
+===== Task-2 (PieChart) ========
+Please switch to piechart branch or clone from the branch to see the assignment for task-2

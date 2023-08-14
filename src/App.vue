@@ -1,10 +1,8 @@
 <script setup>
-import Carousel from './components/Carousel.vue'
-import PieChart from './components/PieChart.vue'
 </script>
 
 <template>
-    <PieChart></PieChart>
+    <h1>Hello Ostad</h1>
 </template>
 
 <style scoped>
