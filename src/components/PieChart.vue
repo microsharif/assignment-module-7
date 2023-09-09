@@ -44,7 +44,7 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <div class=" mx-auto w-[400px] h-[400px] bg-gray-400">
+  <div class=" mx-auto w-[400px] h-[450px] bg-gray-400">
     <canvas id="chart">
     </canvas>
   </div>
