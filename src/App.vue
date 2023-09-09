@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <h1>Hello Ostad</h1>
+    <h1 class="text-base">Hello Ostad</h1>
 </template>
 
 <style scoped>
